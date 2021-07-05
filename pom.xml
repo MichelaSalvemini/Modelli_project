@@ -82,8 +82,3 @@
   </plugins>
 </build>
 </project>
-<properties>
-  <sonar.projectKey>MichelaSalvemini_Modelli_project</sonar.projectKey>
-  <sonar.organization>michelasalvemini</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
